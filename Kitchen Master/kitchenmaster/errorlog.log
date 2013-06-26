@@ -1,0 +1,22 @@
+ERROR:root:Oops:
+Traceback (most recent call last):
+  File "kitchenmaster.py", line 4661, in <module>
+  File "kitchenmaster.py", line 1969, in main_menu
+  File "kitchenmaster.py", line 2059, in play_game
+  File "kitchenmaster.py", line 2960, in save_game
+  File "shelve.pyc", line 239, in open
+  File "shelve.pyc", line 222, in __init__
+  File "zipextimporter.pyc", line 82, in load_module
+  File "anydbm.pyc", line 53, in <module>
+ImportError: no dbm clone found; tried ['dbhash', 'gdbm', 'dbm', 'dumbdbm']
+ERROR:root:Oops:
+Traceback (most recent call last):
+  File "kitchenmaster.py", line 4661, in <module>
+  File "kitchenmaster.py", line 1969, in main_menu
+  File "kitchenmaster.py", line 2059, in play_game
+  File "kitchenmaster.py", line 2960, in save_game
+  File "shelve.pyc", line 239, in open
+  File "shelve.pyc", line 222, in __init__
+  File "zipextimporter.pyc", line 82, in load_module
+  File "anydbm.pyc", line 53, in <module>
+ImportError: no dbm clone found; tried ['dbhash', 'gdbm', 'dbm', 'dumbdbm']

@@ -1,0 +1,10 @@
+ABOUT KITCHENMASTER
+-------------------
+
+Kitchenmaster is a roguelike, a randomly generated dungeon full of terrible, food-based monsters! You have to battle through the floors of the dungeon and finally slay the boss, the terrible Critic! Be careful - in this game, death is permanent, so you must use all of your wits and cooking skills to get you out of tight spots. 
+
+-Is a monster just too powerful to deal with? Quickly cook some noodles to entangle them with!
+-Lots of monsters closing in? Bake some shortbread throwing stars!
+-Feel like your spatula isn't doing enough damage? Pour some hot sauce on that sucker!
+
+Destroying enemies gives you essential ingredients to cook your delicious recipes. It's a limited resource, so choose what you make with care, and try to use a healthy balance of all the ingredients for maximum chance of survival!

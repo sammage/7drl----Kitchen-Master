@@ -1,0 +1,8 @@
+CREDITS
+-------
+
+This game was made for the 7DRL competition 2012. In the 7DRL you have to make a roguelike in just 7 seven days - so if you find any bugs, that's what's to blame, honest! It was made by Sammage. His favorite animal is cats and his favorite colour is 'also cats'. 
+
+The game runs on python, and uses the libtcod library by Doryen. The base of the game was a libtcod roguelike tutorial written by Jotaf.
+
+If you have any bugs or suggestions for improvements, email them to zarquonmk2@gmail.com!
